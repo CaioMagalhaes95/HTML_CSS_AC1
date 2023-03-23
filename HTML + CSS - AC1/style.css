@@ -34,19 +34,25 @@ h2{
     text-align: center;
 }
 
+#menulist{
+    float: left;
+    margin-right: 25px;
+    
+}
+
 
 .menuitem{
     border: 8px solid #f3f3ec;
     border-radius: 12px;
     background-color: #f3f3ec;
-    margin: 10px 8px 1px 5px;
+    font-size: small;
+    margin: 5px;
+    width: 250px;
+    padding: 5px;
     list-style-type:none;
    
 }
 
-.menu1{
-    margin: 10px 800px 1px 5px;
-}
 
 a:link{
     text-decoration: none;
@@ -58,20 +64,25 @@ a:link{
 }
 
 .box{
-    float: top;
     background-color: #f3f3ec;
-    margin: 10px 10px 10px 500px;
-    padding: 10px;
+    margin-left: 357px;
+    padding: 20px;
+  
+
 }
 
 .box p{
     font-size: medium;
     text-align: left;
-    margin: 0px 0px 30px 0px;
+    margin-bottom: 25px;
+    
+ 
 }
+
 
 .foot{
     float: right;
     font-size: small;
+    margin-bottom: 25px;
 }
 
